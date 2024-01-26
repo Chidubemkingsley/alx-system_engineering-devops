@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# display Best School 10 times:usage of while loop
+
+d=0
+
+until false; do
+  echo "Best School"
+  ((d++))
+  if [[ $d -lt 10 ]]; then
+    continue
+  else
+    break
+  fi
+done
