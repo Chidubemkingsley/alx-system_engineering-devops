@@ -1,4 +1,4 @@
-![0-simple_web_stack](https://raw.githubusercontent.com/Chidubemkingsley/alx-system_engineering-devops/main/0-simple_web_stack.PNG)
+![0-simple_web_stack](https://raw.githubusercontent.com/Chidubemkingsley/0x09-web_infrastructure_design/main/0-simple_web_stack.PNG)
 
 
 
