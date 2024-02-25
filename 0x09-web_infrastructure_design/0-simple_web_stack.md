@@ -1,5 +1,6 @@
-Description
+(https://github.com/Chidubemkingsley/alx-system_engineering-devops/assets/140399852/2491e94b-476d-4e43-b543-90f73061a7e9)
 
+Description![0-simple_web_stack]
 This is a simple web infrastructure that hosts a website that is reachable via www.foobar.com. There are no firewalls or SSL certificates for protecting the server's network. Each component (database, application server) has to share the resources (CPU, RAM, and SSD) provided by the server.
 Specifics About This Infrastructure
 
