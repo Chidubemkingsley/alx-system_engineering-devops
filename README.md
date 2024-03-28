@@ -6,7 +6,7 @@
 
 ## About
 
-- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [th3\_gr00t](https://th3-gr00t.tk/).
+- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [Chidubemkingsley ](https://github.com/Chidubemkingsley).
 
 ---
 
@@ -32,4 +32,5 @@
 - [0x13](./0x13-firewall) : Firewall.
 - [0x14](./0x14-mysql) : MySQL.
 - [0x15](./0x15-api) : API.
-- [Attack is the best defense.](./attack_is_the_best_defense)
+- [Attack is the best defense.](./attack_is_the_best_defense
+
