@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-# prints Best School 10 times
-
-for ((v = 1; v <= 10; v++)); do
-  echo "Best School"
-done

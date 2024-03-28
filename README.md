@@ -1,37 +1,35 @@
-0x06. Regular expression
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
-Background Context
-For this project, you have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
+# 0x00 ALX System Engineering and DevOps 💥
 
-Because the focus of this exercise is to play with regular expressions (regex), here is the Ruby code that you should use, just replace the regexp part, meaning the code in between the //:
+>Learning bash, scripting, networking and web infra right now, been wanting to get on this. It's going to be FUN !!.
 
-sylvain@ubuntu$ cat example.rb
-#!/usr/bin/env ruby
-puts ARGV[0].scan(/127.0.0.[0-9]/).join
-sylvain@ubuntu$
-sylvain@ubuntu$ ./example.rb 127.0.0.2
-127.0.0.2
-sylvain@ubuntu$ ./example.rb 127.0.0.1
-127.0.0.1
-sylvain@ubuntu$ ./example.rb 127.0.0.a
+## About
 
+- This repository consists of all the .Subject projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [th3\_gr00t](https://th3-gr00t.tk/).
 
-Resources
-Read or watch:
+---
 
-Regular expressions - basics
-Regular expressions - advanced
-Rubular is your best friend
-Use a regular expression against a problem: now you have 2 problems
-Learn Regular Expressions with simple, interactive exercises
-
-
-Requirements
-General
-Allowed editors: vi, vim, emacs
-All your files will be interpreted on Ubuntu 20.04 LTS
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-All your Bash script files must be executable
-The first line of all your Bash scripts should be exactly #!/usr/bin/env ruby
-All your regex must be built for the Oniguruma library
+- [0x00](./0x00-shell_basics) : Writing basic bash scripts that perform basic stuff.
+- [0x01](./0x01-shell_permissions) : Linux permissions.
+- [0x02](./0x02-shell_redirections) : Shell, I/O Redirections and filters.
+- [0x03](./0x03-shell_variables_expansions) : Shell, init files, variables and expansions.
+- [0x04](./0x04-loops_conditions_and_parsing) : Loops, conditions and parsing.
+- [0x05](./0x05-processes_and_signals) : Processes and signals.
+- [0x06](./0x06-regular_expressions) : Regular expression.
+- [0x07](./0x07-networking_basics) : Networking basics #0.
+- [0x08](./0x08-networking_basics_2) : Networking basics #1.
+- [0x09](./0x09-web_infrastructure_design) : Web infrastructure design.
+- [0x0A](./0x0A-configuration_management) : Configuration management.
+- [0x0B](./0x0B-ssh) : SSH.
+- [0x0C](./0x0C-web_server) : Web server.
+- [0x0D](./0x0D-web_stack_debugging_0) : Web stack debugging #0.
+- [0x0E](./0x0E-web_stack_debugging_1) : Web stack debugging #1.
+- [0x0F](./0x0F-load_balancer) : Load balancer.
+- [0x10](./0x10-https_ssl) : HTTPS SSL.
+- [0x11](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter) : What happens when you type holbertonschool.com in your browser and press Enter.
+- [0x12](./0x12-web_stack_debugging_2) : Web stack debugging #2.
+- [0x13](./0x13-firewall) : Firewall.
+- [0x14](./0x14-mysql) : MySQL.
+- [0x15](./0x15-api) : API.
+- [Attack is the best defense.](./attack_is_the_best_defense)
