@@ -2,7 +2,7 @@
 
 # 0x19. Postmortem 💥
 
-![img]('/tmp/1 PKVgngDANx16LKYp-mooXg.webp'")
+![img](https://miro.medium.com/v2/resize:fit:720/format:webp/1*PKVgngDANx16LKYp-mooXg.png)
 
 >Learning devops and sysAdmin right now.
 
