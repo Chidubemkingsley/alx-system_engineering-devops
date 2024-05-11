@@ -2,6 +2,7 @@
 
 # 0x19. Postmortem 💥
 
+![img]('/tmp/1 PKVgngDANx16LKYp-mooXg.webp'")
 
 >Learning devops and sysAdmin right now.
 
