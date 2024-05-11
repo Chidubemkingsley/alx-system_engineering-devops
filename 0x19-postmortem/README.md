@@ -6,7 +6,7 @@
 
 >Learning devops and sysAdmin right now.
 
-![gif](https://twitter.com/devopsreact/status/834887829486399488)
+![gif](postmortem.gif)
 
 # Postmortem
 
