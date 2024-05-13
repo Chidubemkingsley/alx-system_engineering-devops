@@ -2,8 +2,7 @@
 
 # 0x1A. Application server 💥
 
-![img](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/9/c7d1ed0a2e10d1b4e9b3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240513T122437Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c2a58aadf33c529416fbfdc7bdb9bd5f2836fbfb2847cb2ef5c142680439bf4f)
-
+![img](app.png)
 ##  Requirements
 
 *   Allowed editors: `vi`, `vim`, `emacs`.
